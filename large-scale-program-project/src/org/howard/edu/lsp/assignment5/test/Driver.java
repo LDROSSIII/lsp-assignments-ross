@@ -28,6 +28,7 @@ public class Driver {
 		System.out.println();
 		
 		IntegerSet set2 = new IntegerSet();
+		set2.add(3);
 		set2.add(4);
 		set2.add(5);
 		
